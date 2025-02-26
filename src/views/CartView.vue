@@ -53,19 +53,19 @@ let products = ref([
     },
     {
         id: 3,
-        title: 'iPhone 9',
+        title: 'iPhone 14',
         description: 'An apple mobile which is nothing like apple',
         price: 2500,
     },
     {
         id: 4,
-        title: 'iPhone 9',
+        title: 'iPhone 13',
         description: 'An apple mobile which is nothing like apple',
         price: 1500,
     },
     {
         id: 5,
-        title: 'iPhone 9',
+        title: 'iPhone 18',
         description: 'An apple mobile which is nothing like apple',
         price: 3010,
     }
